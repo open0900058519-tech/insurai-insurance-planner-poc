@@ -1,0 +1,5 @@
+product_id,product_type,product_name,coverage,monthly_premium,target_age_min,target_age_max,risk_level,description
+TERM100,life,POC虛擬安心定期壽險,5000000,1000,18,65,中,每月1000元示意保費；定期壽險保障額度
+MEDICAL100,medical,POC虛擬住院醫療險,1000000,800,18,70,中,每月800元示意保費；醫療保障額度
+ACCIDENT50,accident,POC虛擬安心意外險,3000000,500,18,70,中,每月500元示意保費；意外保障額度
+CRITICAL50,critical,POC虛擬重大疾病險,1000000,700,18,65,中,每月700元示意保費；重大疾病保障額度
