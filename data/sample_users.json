@@ -1,0 +1,23 @@
+{
+  "name": "王小明",
+  "age": 35,
+  "gender": "男",
+  "occupation": "一般職員",
+  "work_type": "辦公室",
+  "marital_status": "已婚",
+  "children": 2,
+  "dependents": 2,
+  "transport": "機車",
+  "annual_income": 600000,
+  "monthly_expenses": 30000,
+  "housing_monthly": 15000,
+  "savings": 200000,
+  "investments": 0,
+  "mortgage": 5000000,
+  "debts": 0,
+  "life_cover": 3000000,
+  "medical_cover": 500000,
+  "accident_cover": 1000000,
+  "critical_cover": 0,
+  "budget": 3000
+}
